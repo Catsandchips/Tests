@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d95092f_002Ded2e_002D4576_002Da2af_002D5e7c3a7c8a31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="parrotNameSite_FillFormWithEmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::93B3A088-1C4F-41AB-8864-9728E61606D8::.NETCoreApp,Version=v3.1::TestHometask.Tests.parrotNameSite_FillFormWithEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::93B3A088-1C4F-41AB-8864-9728E61606D8::.NETCoreApp,Version=v3.1::TestHometask.Tests.parrotNameSite_RequestForBoy_BoyText&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::93B3A088-1C4F-41AB-8864-9728E61606D8::.NETCoreApp,Version=v3.1::TestHometask.Tests.parrotNameSite_RequestForGirl_GirlText&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::93B3A088-1C4F-41AB-8864-9728E61606D8::.NETCoreApp,Version=v3.1::TestHometask.Tests.parrotNameSite_СlickAnotherEmail_EmailInputIsEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
